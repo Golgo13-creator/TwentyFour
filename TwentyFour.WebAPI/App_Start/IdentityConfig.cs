@@ -3,6 +3,7 @@ using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.EntityFramework;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin;
+using TwentyFour.Data;
 using TwentyFour.WebAPI.Models;
 
 namespace TwentyFour.WebAPI

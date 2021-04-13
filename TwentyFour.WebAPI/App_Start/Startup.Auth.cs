@@ -10,6 +10,7 @@ using Microsoft.Owin.Security.OAuth;
 using Owin;
 using TwentyFour.WebAPI.Providers;
 using TwentyFour.WebAPI.Models;
+using TwentyFour.Data;
 
 namespace TwentyFour.WebAPI
 {

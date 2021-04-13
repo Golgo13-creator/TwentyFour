@@ -1,0 +1,16 @@
+C:\Users\laama\source\repos\TwentyFour\TwentyFour.Models\bin\Debug\TwentyFour.Models.dll.config
+C:\Users\laama\source\repos\TwentyFour\TwentyFour.Models\bin\Debug\TwentyFour.Models.dll
+C:\Users\laama\source\repos\TwentyFour\TwentyFour.Models\bin\Debug\TwentyFour.Models.pdb
+C:\Users\laama\source\repos\TwentyFour\TwentyFour.Models\bin\Debug\EntityFramework.dll
+C:\Users\laama\source\repos\TwentyFour\TwentyFour.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\laama\source\repos\TwentyFour\TwentyFour.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\laama\source\repos\TwentyFour\TwentyFour.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\laama\source\repos\TwentyFour\TwentyFour.Models\bin\Debug\EntityFramework.xml
+C:\Users\laama\source\repos\TwentyFour\TwentyFour.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\laama\source\repos\TwentyFour\TwentyFour.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\laama\source\repos\TwentyFour\TwentyFour.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\laama\source\repos\TwentyFour\TwentyFour.Models\obj\Debug\TwentyFour.Models.csprojAssemblyReference.cache
+C:\Users\laama\source\repos\TwentyFour\TwentyFour.Models\obj\Debug\TwentyFour.Models.csproj.CoreCompileInputs.cache
+C:\Users\laama\source\repos\TwentyFour\TwentyFour.Models\obj\Debug\TwentyFour.Models.csproj.CopyComplete
+C:\Users\laama\source\repos\TwentyFour\TwentyFour.Models\obj\Debug\TwentyFour.Models.dll
+C:\Users\laama\source\repos\TwentyFour\TwentyFour.Models\obj\Debug\TwentyFour.Models.pdb

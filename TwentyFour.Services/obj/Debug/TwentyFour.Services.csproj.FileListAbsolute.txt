@@ -1,0 +1,16 @@
+C:\Users\laama\source\repos\TwentyFour\TwentyFour.Services\bin\Debug\TwentyFour.Services.dll.config
+C:\Users\laama\source\repos\TwentyFour\TwentyFour.Services\bin\Debug\TwentyFour.Services.dll
+C:\Users\laama\source\repos\TwentyFour\TwentyFour.Services\bin\Debug\TwentyFour.Services.pdb
+C:\Users\laama\source\repos\TwentyFour\TwentyFour.Services\bin\Debug\EntityFramework.dll
+C:\Users\laama\source\repos\TwentyFour\TwentyFour.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\laama\source\repos\TwentyFour\TwentyFour.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\laama\source\repos\TwentyFour\TwentyFour.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\laama\source\repos\TwentyFour\TwentyFour.Services\bin\Debug\EntityFramework.xml
+C:\Users\laama\source\repos\TwentyFour\TwentyFour.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\laama\source\repos\TwentyFour\TwentyFour.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\laama\source\repos\TwentyFour\TwentyFour.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\laama\source\repos\TwentyFour\TwentyFour.Services\obj\Debug\TwentyFour.Services.csprojAssemblyReference.cache
+C:\Users\laama\source\repos\TwentyFour\TwentyFour.Services\obj\Debug\TwentyFour.Services.csproj.CoreCompileInputs.cache
+C:\Users\laama\source\repos\TwentyFour\TwentyFour.Services\obj\Debug\TwentyFour.Services.csproj.CopyComplete
+C:\Users\laama\source\repos\TwentyFour\TwentyFour.Services\obj\Debug\TwentyFour.Services.dll
+C:\Users\laama\source\repos\TwentyFour\TwentyFour.Services\obj\Debug\TwentyFour.Services.pdb
